@@ -4,3 +4,9 @@ d:\mis documentos\visual studio 2015\Projects\Sucesion 2 5 7\Sucesion 2 5 7\bin\
 d:\mis documentos\visual studio 2015\Projects\Sucesion 2 5 7\Sucesion 2 5 7\obj\Debug\Sucesion 2 5 7.csprojResolveAssemblyReference.cache
 d:\mis documentos\visual studio 2015\Projects\Sucesion 2 5 7\Sucesion 2 5 7\obj\Debug\Sucesion 2 5 7.exe
 d:\mis documentos\visual studio 2015\Projects\Sucesion 2 5 7\Sucesion 2 5 7\obj\Debug\Sucesion 2 5 7.pdb
+D:\Mis Documentos\GitHub\CursoProgramacion.Net\Sucesion 2 5 7\Sucesion 2 5 7\bin\Debug\Sucesion 2 5 7.exe.config
+D:\Mis Documentos\GitHub\CursoProgramacion.Net\Sucesion 2 5 7\Sucesion 2 5 7\obj\Debug\Sucesion 2 5 7.exe
+D:\Mis Documentos\GitHub\CursoProgramacion.Net\Sucesion 2 5 7\Sucesion 2 5 7\obj\Debug\Sucesion 2 5 7.pdb
+D:\Mis Documentos\GitHub\CursoProgramacion.Net\Sucesion 2 5 7\Sucesion 2 5 7\bin\Debug\Sucesion 2 5 7.exe
+D:\Mis Documentos\GitHub\CursoProgramacion.Net\Sucesion 2 5 7\Sucesion 2 5 7\bin\Debug\Sucesion 2 5 7.pdb
+D:\Mis Documentos\GitHub\CursoProgramacion.Net\Sucesion 2 5 7\Sucesion 2 5 7\obj\Debug\Sucesion 2 5 7.csprojResolveAssemblyReference.cache

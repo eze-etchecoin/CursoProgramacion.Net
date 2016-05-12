@@ -10,8 +10,9 @@ namespace Sucesion_2_5_7
     {
         static void Main(string[] args)
         {
-            int num = 0;
-            int termino = 0;
+            int num = 0; //Para los números de la sucesión.
+            int termino = 0; //Para determinar el nº de término de la sucesión.
+            int suma = 0; //Para sumar los números de la sucesión.
 
             while (num < 1800)
             {
@@ -29,21 +30,26 @@ namespace Sucesion_2_5_7
                     num = num + 3;
                 }
 
+                //Sumamos el número actual al total
+                suma = suma + num;
+
+                Console.WriteLine(num);
+
                 //Esto es sólo para comprobar si la sucesión esta bien generada,
                 //antes de imprimir hasta 1800.
                 if (termino == 10)
                 {
                     Console.WriteLine("Revise si la sucesión se esta generando correctamente.");
+                    Console.WriteLine("La suma de los términos es " + suma);
                     Console.WriteLine("Pulse una tecla para continuar...");
                     Console.ReadKey();
                 }
-
-                Console.WriteLine(num);
 
                 //Esto es para demorar un poquito la impresión.
                 System.Threading.Thread.Sleep(2);
             }
 
+            Console.WriteLine("La suma de los términos es " + suma);
             Console.WriteLine("Pulse una tecla para concluir...");
             Console.ReadKey();
         }
