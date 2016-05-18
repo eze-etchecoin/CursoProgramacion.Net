@@ -1,0 +1,6 @@
+d:\mis documentos\visual studio 2015\Projects\Numeros_Amigos\Numeros_Amigos\bin\Debug\Numeros_Amigos.exe.config
+d:\mis documentos\visual studio 2015\Projects\Numeros_Amigos\Numeros_Amigos\bin\Debug\Numeros_Amigos.exe
+d:\mis documentos\visual studio 2015\Projects\Numeros_Amigos\Numeros_Amigos\bin\Debug\Numeros_Amigos.pdb
+d:\mis documentos\visual studio 2015\Projects\Numeros_Amigos\Numeros_Amigos\obj\Debug\Numeros_Amigos.csprojResolveAssemblyReference.cache
+d:\mis documentos\visual studio 2015\Projects\Numeros_Amigos\Numeros_Amigos\obj\Debug\Numeros_Amigos.exe
+d:\mis documentos\visual studio 2015\Projects\Numeros_Amigos\Numeros_Amigos\obj\Debug\Numeros_Amigos.pdb
