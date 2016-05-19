@@ -1,0 +1,6 @@
+d:\mis documentos\visual studio 2015\Projects\Array_ MayorMenorPromedio\Array_ MayorMenorPromedio\bin\Debug\Array_ MayorMenorPromedio.exe.config
+d:\mis documentos\visual studio 2015\Projects\Array_ MayorMenorPromedio\Array_ MayorMenorPromedio\bin\Debug\Array_ MayorMenorPromedio.exe
+d:\mis documentos\visual studio 2015\Projects\Array_ MayorMenorPromedio\Array_ MayorMenorPromedio\bin\Debug\Array_ MayorMenorPromedio.pdb
+d:\mis documentos\visual studio 2015\Projects\Array_ MayorMenorPromedio\Array_ MayorMenorPromedio\obj\Debug\Array_ MayorMenorPromedio.csprojResolveAssemblyReference.cache
+d:\mis documentos\visual studio 2015\Projects\Array_ MayorMenorPromedio\Array_ MayorMenorPromedio\obj\Debug\Array_ MayorMenorPromedio.exe
+d:\mis documentos\visual studio 2015\Projects\Array_ MayorMenorPromedio\Array_ MayorMenorPromedio\obj\Debug\Array_ MayorMenorPromedio.pdb
