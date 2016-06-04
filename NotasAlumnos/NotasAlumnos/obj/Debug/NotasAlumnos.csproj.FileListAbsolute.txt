@@ -4,3 +4,9 @@ d:\mis documentos\visual studio 2015\Projects\NotasAlumnos\NotasAlumnos\bin\Debu
 d:\mis documentos\visual studio 2015\Projects\NotasAlumnos\NotasAlumnos\bin\Debug\NotasAlumnos.pdb
 d:\mis documentos\visual studio 2015\Projects\NotasAlumnos\NotasAlumnos\obj\Debug\NotasAlumnos.exe
 d:\mis documentos\visual studio 2015\Projects\NotasAlumnos\NotasAlumnos\obj\Debug\NotasAlumnos.pdb
+C:\Users\Roberto\Source\Repos\CursoProgramacion.Net\NotasAlumnos\NotasAlumnos\bin\Debug\NotasAlumnos.exe.config
+C:\Users\Roberto\Source\Repos\CursoProgramacion.Net\NotasAlumnos\NotasAlumnos\obj\Debug\NotasAlumnos.exe
+C:\Users\Roberto\Source\Repos\CursoProgramacion.Net\NotasAlumnos\NotasAlumnos\obj\Debug\NotasAlumnos.pdb
+C:\Users\Roberto\Source\Repos\CursoProgramacion.Net\NotasAlumnos\NotasAlumnos\bin\Debug\NotasAlumnos.exe
+C:\Users\Roberto\Source\Repos\CursoProgramacion.Net\NotasAlumnos\NotasAlumnos\bin\Debug\NotasAlumnos.pdb
+C:\Users\Roberto\Source\Repos\CursoProgramacion.Net\NotasAlumnos\NotasAlumnos\obj\Debug\NotasAlumnos.csprojResolveAssemblyReference.cache

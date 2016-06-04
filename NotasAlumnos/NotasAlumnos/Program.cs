@@ -20,16 +20,24 @@ namespace NotasAlumnos
             {
                 nota = r.Next(1, 11);
                 Console.Write("Alumno " + i + "\t" + nota + "\t");
-                for (int j = 0; j < nota; j++)
-                {
-                    Console.Write("*");
-                }
-
+                Console.Write(generarAsteriscos(nota));
                 Console.WriteLine();
             }
 
             Console.ReadKey();
 
+        }
+
+        static string generarAsteriscos(int numeroDeAsteriscos)
+        {
+
+            string asteriscos = "";
+            for (int i = 0; i < numeroDeAsteriscos; i++)
+            {
+                asteriscos = asteriscos + "*";
+            }
+
+            return asteriscos;
         }
     }
 }
