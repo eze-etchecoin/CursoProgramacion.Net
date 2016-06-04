@@ -1,0 +1,6 @@
+d:\mis documentos\visual studio 2015\Projects\NotasAlumnos\NotasAlumnos\bin\Debug\NotasAlumnos.exe.config
+d:\mis documentos\visual studio 2015\Projects\NotasAlumnos\NotasAlumnos\obj\Debug\NotasAlumnos.csprojResolveAssemblyReference.cache
+d:\mis documentos\visual studio 2015\Projects\NotasAlumnos\NotasAlumnos\bin\Debug\NotasAlumnos.exe
+d:\mis documentos\visual studio 2015\Projects\NotasAlumnos\NotasAlumnos\bin\Debug\NotasAlumnos.pdb
+d:\mis documentos\visual studio 2015\Projects\NotasAlumnos\NotasAlumnos\obj\Debug\NotasAlumnos.exe
+d:\mis documentos\visual studio 2015\Projects\NotasAlumnos\NotasAlumnos\obj\Debug\NotasAlumnos.pdb
